@@ -7,7 +7,8 @@ import tdd.training.timeline.model.Item;
  * Created by Ajit on 2/19/17.
  */
 
-//new update here
+//new update here for new ideas
+
 public class DataItem implements Item{
 
     private long timeStamp;

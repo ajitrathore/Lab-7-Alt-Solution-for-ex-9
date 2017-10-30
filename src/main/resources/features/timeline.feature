@@ -11,6 +11,3 @@ Feature: Timeline display and ordering of updates
     When consumer requests more items
     Then Timeline should be loaded with 10 more items
       And total item count should be 20
-
-
-

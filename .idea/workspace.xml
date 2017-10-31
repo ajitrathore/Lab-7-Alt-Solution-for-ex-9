@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87b502b1-5ae6-47f5-afd9-8543982e1d8d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/tdd/training/timeline/data/mongodb/DataItem.java" afterPath="$PROJECT_DIR$/src/main/java/tdd/training/timeline/data/mongodb/DataItem.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/tdd/training/timeline/data/mongodb/DataItem.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -501,7 +500,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/tdd/training/timeline/data/mongodb/DataItem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
